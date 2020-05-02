@@ -1,2 +1,2 @@
 // Эта функция переворачивает переданную строку
-export default str => str.split('').reverse().join('') + '555';
+export default str => str.split('').reverse().join('');
